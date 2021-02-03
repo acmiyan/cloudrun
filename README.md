@@ -4,3 +4,5 @@ It is a repository to run python codes on Cloud Run.(GCP)
 - fix-B
 - feature-C
 - feature-D
+
+force push is not allowed.
